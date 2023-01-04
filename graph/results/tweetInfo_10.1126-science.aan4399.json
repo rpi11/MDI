@@ -1,0 +1,1511 @@
+{
+    "tweet_counts": {
+        "article -> tweet": 267,
+        "tweet -> retweet": 92
+    },
+    "follower_counts": {
+        "article -> tweet": 3446005,
+        "tweet -> retweet": 170866
+    },
+    "10.1126/science.aan4399": {
+        "985990729444012034": {
+            "created_at": "Mon Apr 16 21:18:03 +0000 2018",
+            "full_text": "New research shows that rocks make a larger than previously realised contribution to the nitrogen cycle #ChemMonthly\n\ud83d\udcf0 Article: https://t.co/HC6on9QQ5f\n\ud83d\udcd4 Study: https://t.co/K8GfTT55Ij https://t.co/2DgG5Zcj3k",
+            "retweet_count": 1,
+            "user_id": 738288860149501952,
+            "followers_count": 1397,
+            "retweeted_TO": {
+                "985998443641540608": {
+                    "created_at": "Mon Apr 16 21:48:42 +0000 2018",
+                    "full_text": "RT @chemunicate: New research shows that rocks make a larger than previously realised contribution to the nitrogen cycle #ChemMonthly\n\ud83d\udcf0 Art\u2026",
+                    "retweet_count": 1,
+                    "user_id": 741073788,
+                    "followers_count": 161
+                }
+            }
+        },
+        "986359643080482819": {
+            "created_at": "Tue Apr 17 21:43:59 +0000 2018",
+            "full_text": "Here\u2019s the link to Science. https://t.co/FHGte3naHs",
+            "retweet_count": 0,
+            "user_id": 201443973,
+            "followers_count": 320
+        },
+        "986624638502428673": {
+            "created_at": "Wed Apr 18 15:16:59 +0000 2018",
+            "full_text": "Nitrogen! You crazy. https://t.co/d98GN3kFFF",
+            "retweet_count": 0,
+            "user_id": 2828567929,
+            "followers_count": 1226
+        },
+        "986769554331328518": {
+            "created_at": "Thu Apr 19 00:52:49 +0000 2018",
+            "full_text": "@RLewisReports for those interested in science...\nhttps://t.co/N0QWH7VFm9\nhttps://t.co/AzZ4cs4FnT",
+            "retweet_count": 0,
+            "user_id": 2790404660,
+            "followers_count": 411
+        },
+        "985396038168035328": {
+            "created_at": "Sun Apr 15 05:54:57 +0000 2018",
+            "full_text": "We've always thought plants got all their nitrogen from the air. We were wrong https://t.co/Au8SN4fSp0",
+            "retweet_count": 0,
+            "user_id": 14451009,
+            "followers_count": 1774
+        },
+        "992677527926829056": {
+            "created_at": "Sat May 05 08:09:00 +0000 2018",
+            "full_text": "Scientists have overestimated climate! \nWhat is bigger than an oxymoron? https://t.co/Vk8jBYwoAB",
+            "retweet_count": 0,
+            "user_id": 3109105611,
+            "followers_count": 1557
+        },
+        "993266153878306816": {
+            "created_at": "Sun May 06 23:07:59 +0000 2018",
+            "full_text": "New research in Science finds that bedrock is as large a source of terrestrial nitrogen as the atmosphere is: ($) https://t.co/v7KyCPJPvg",
+            "retweet_count": 0,
+            "user_id": 796238127442501632,
+            "followers_count": 93
+        },
+        "992375664878718976": {
+            "created_at": "Fri May 04 12:09:30 +0000 2018",
+            "full_text": "@RepSwalwell Scientists have over estimated climate.  The earth produces more nitrogen than realized. https://t.co/XEDko64Vc0",
+            "retweet_count": 0,
+            "user_id": 755584963467018240,
+            "followers_count": 6048
+        },
+        "982036403826524160": {
+            "created_at": "Thu Apr 05 23:24:58 +0000 2018",
+            "full_text": "#oneforjournalclub https://t.co/kCYKoSXCTB",
+            "retweet_count": 1,
+            "user_id": 1660982616,
+            "followers_count": 3667,
+            "retweeted_TO": {
+                "982038743514337280": {
+                    "created_at": "Thu Apr 05 23:34:16 +0000 2018",
+                    "full_text": "RT @b_medlyn: #oneforjournalclub https://t.co/kCYKoSXCTB",
+                    "retweet_count": 1,
+                    "user_id": 3775241243,
+                    "followers_count": 913
+                }
+            }
+        },
+        "982038753928798209": {
+            "created_at": "Thu Apr 05 23:34:18 +0000 2018",
+            "full_text": "@fishrockpodcast An idea for a future podcast? https://t.co/SCLPBFfJnk",
+            "retweet_count": 0,
+            "user_id": 49621218,
+            "followers_count": 562
+        },
+        "982048109759836165": {},
+        "982052527918084096": {
+            "created_at": "Fri Apr 06 00:29:02 +0000 2018",
+            "full_text": "Wow! If your teaching or research involves the #nitrogen cycle, this has IMPLICATIONS. \n\nRocks as important a source as atmosphere? https://t.co/lRqNNWeA4A",
+            "retweet_count": 1,
+            "user_id": 376760198,
+            "followers_count": 1407,
+            "retweeted_TO": {
+                "982059487052709888": {
+                    "created_at": "Fri Apr 06 00:56:42 +0000 2018",
+                    "full_text": "RT @bhundey: Wow! If your teaching or research involves the #nitrogen cycle, this has IMPLICATIONS. \n\nRocks as important a source as atmosp\u2026",
+                    "retweet_count": 1,
+                    "user_id": 368962505,
+                    "followers_count": 3254
+                }
+            }
+        },
+        "982148719813390338": {
+            "created_at": "Fri Apr 06 06:51:16 +0000 2018",
+            "full_text": "@ClaireQubain https://t.co/gjLohWCvuw",
+            "retweet_count": 0,
+            "user_id": 2813430134,
+            "followers_count": 1031
+        },
+        "981961490327482368": {
+            "created_at": "Thu Apr 05 18:27:17 +0000 2018",
+            "full_text": "Our paper in Science just out: Rocks have been an overlooked global source of nitrogen, helping to fuel CO2 uptake by ecosystems https://t.co/VdSRxZubJs",
+            "retweet_count": 66,
+            "user_id": 368962505,
+            "followers_count": 3254,
+            "retweeted_TO": {
+                "984245854981599235": {
+                    "created_at": "Thu Apr 12 01:44:32 +0000 2018",
+                    "full_text": "RT @BenHoulton: Our paper in Science just out: Rocks have been an overlooked global source of nitrogen, helping to fuel CO2 uptake by ecosy\u2026",
+                    "retweet_count": 66,
+                    "user_id": 763917769008041984,
+                    "followers_count": 1242
+                },
+                "984243442170527749": {
+                    "created_at": "Thu Apr 12 01:34:57 +0000 2018",
+                    "full_text": "RT @BenHoulton: Our paper in Science just out: Rocks have been an overlooked global source of nitrogen, helping to fuel CO2 uptake by ecosy\u2026",
+                    "retweet_count": 66,
+                    "user_id": 3062225942,
+                    "followers_count": 551
+                },
+                "982968152899305472": {
+                    "created_at": "Sun Apr 08 13:07:24 +0000 2018",
+                    "full_text": "RT @BenHoulton: Our paper in Science just out: Rocks have been an overlooked global source of nitrogen, helping to fuel CO2 uptake by ecosy\u2026",
+                    "retweet_count": 66,
+                    "user_id": 49932085,
+                    "followers_count": 489
+                },
+                "982924130981949440": {
+                    "created_at": "Sun Apr 08 10:12:29 +0000 2018",
+                    "full_text": "RT @BenHoulton: Our paper in Science just out: Rocks have been an overlooked global source of nitrogen, helping to fuel CO2 uptake by ecosy\u2026",
+                    "retweet_count": 66,
+                    "user_id": 925109950959046656,
+                    "followers_count": 976
+                },
+                "982780560107065344": {
+                    "created_at": "Sun Apr 08 00:41:59 +0000 2018",
+                    "full_text": "RT @BenHoulton: Our paper in Science just out: Rocks have been an overlooked global source of nitrogen, helping to fuel CO2 uptake by ecosy\u2026",
+                    "retweet_count": 66,
+                    "user_id": 751885664283602944,
+                    "followers_count": 5043
+                },
+                "982750657324003328": {
+                    "created_at": "Sat Apr 07 22:43:09 +0000 2018",
+                    "full_text": "RT @BenHoulton: Our paper in Science just out: Rocks have been an overlooked global source of nitrogen, helping to fuel CO2 uptake by ecosy\u2026",
+                    "retweet_count": 66,
+                    "user_id": 2977656196,
+                    "followers_count": 3999
+                },
+                "982747770355437574": {
+                    "created_at": "Sat Apr 07 22:31:41 +0000 2018",
+                    "full_text": "RT @BenHoulton: Our paper in Science just out: Rocks have been an overlooked global source of nitrogen, helping to fuel CO2 uptake by ecosy\u2026",
+                    "retweet_count": 66,
+                    "user_id": 1097479752,
+                    "followers_count": 234
+                },
+                "982715571509735424": {
+                    "created_at": "Sat Apr 07 20:23:44 +0000 2018",
+                    "full_text": "RT @BenHoulton: Our paper in Science just out: Rocks have been an overlooked global source of nitrogen, helping to fuel CO2 uptake by ecosy\u2026",
+                    "retweet_count": 66,
+                    "user_id": 2178901645,
+                    "followers_count": 8160
+                },
+                "982654260784586752": {
+                    "created_at": "Sat Apr 07 16:20:07 +0000 2018",
+                    "full_text": "RT @BenHoulton: Our paper in Science just out: Rocks have been an overlooked global source of nitrogen, helping to fuel CO2 uptake by ecosy\u2026",
+                    "retweet_count": 66,
+                    "user_id": 1100674117,
+                    "followers_count": 766
+                },
+                "982563764099837952": {
+                    "created_at": "Sat Apr 07 10:20:31 +0000 2018",
+                    "full_text": "RT @BenHoulton: Our paper in Science just out: Rocks have been an overlooked global source of nitrogen, helping to fuel CO2 uptake by ecosy\u2026",
+                    "retweet_count": 66,
+                    "user_id": 4842797715,
+                    "followers_count": 437
+                },
+                "982536714798297088": {
+                    "created_at": "Sat Apr 07 08:33:02 +0000 2018",
+                    "full_text": "RT @BenHoulton: Our paper in Science just out: Rocks have been an overlooked global source of nitrogen, helping to fuel CO2 uptake by ecosy\u2026",
+                    "retweet_count": 66,
+                    "user_id": 795864066241622016,
+                    "followers_count": 135
+                },
+                "982469805830754304": {
+                    "created_at": "Sat Apr 07 04:07:09 +0000 2018",
+                    "full_text": "RT @BenHoulton: Our paper in Science just out: Rocks have been an overlooked global source of nitrogen, helping to fuel CO2 uptake by ecosy\u2026",
+                    "retweet_count": 66,
+                    "user_id": 841390324236861440,
+                    "followers_count": 303
+                },
+                "982449249852981249": {
+                    "created_at": "Sat Apr 07 02:45:28 +0000 2018",
+                    "full_text": "RT @BenHoulton: Our paper in Science just out: Rocks have been an overlooked global source of nitrogen, helping to fuel CO2 uptake by ecosy\u2026",
+                    "retweet_count": 66,
+                    "user_id": 70320149,
+                    "followers_count": 191
+                },
+                "982380339749273600": {
+                    "created_at": "Fri Apr 06 22:11:39 +0000 2018",
+                    "full_text": "RT @BenHoulton: Our paper in Science just out: Rocks have been an overlooked global source of nitrogen, helping to fuel CO2 uptake by ecosy\u2026",
+                    "retweet_count": 66,
+                    "user_id": 734780682778599424,
+                    "followers_count": 1010
+                },
+                "982378609116524544": {
+                    "created_at": "Fri Apr 06 22:04:46 +0000 2018",
+                    "full_text": "RT @BenHoulton: Our paper in Science just out: Rocks have been an overlooked global source of nitrogen, helping to fuel CO2 uptake by ecosy\u2026",
+                    "retweet_count": 66,
+                    "user_id": 214191800,
+                    "followers_count": 914
+                },
+                "982376029804224515": {
+                    "created_at": "Fri Apr 06 21:54:31 +0000 2018",
+                    "full_text": "RT @BenHoulton: Our paper in Science just out: Rocks have been an overlooked global source of nitrogen, helping to fuel CO2 uptake by ecosy\u2026",
+                    "retweet_count": 66,
+                    "user_id": 4539208812,
+                    "followers_count": 480
+                },
+                "982346754434609152": {
+                    "created_at": "Fri Apr 06 19:58:12 +0000 2018",
+                    "full_text": "RT @BenHoulton: Our paper in Science just out: Rocks have been an overlooked global source of nitrogen, helping to fuel CO2 uptake by ecosy\u2026",
+                    "retweet_count": 66,
+                    "user_id": 1193935657,
+                    "followers_count": 896
+                },
+                "982288119683624969": {
+                    "created_at": "Fri Apr 06 16:05:12 +0000 2018",
+                    "full_text": "RT @BenHoulton: Our paper in Science just out: Rocks have been an overlooked global source of nitrogen, helping to fuel CO2 uptake by ecosy\u2026",
+                    "retweet_count": 66,
+                    "user_id": 288980982,
+                    "followers_count": 609
+                },
+                "982252938268585989": {
+                    "created_at": "Fri Apr 06 13:45:24 +0000 2018",
+                    "full_text": "RT @BenHoulton: Our paper in Science just out: Rocks have been an overlooked global source of nitrogen, helping to fuel CO2 uptake by ecosy\u2026",
+                    "retweet_count": 66,
+                    "user_id": 1299900283,
+                    "followers_count": 10826
+                },
+                "982246499785392132": {
+                    "created_at": "Fri Apr 06 13:19:49 +0000 2018",
+                    "full_text": "RT @BenHoulton: Our paper in Science just out: Rocks have been an overlooked global source of nitrogen, helping to fuel CO2 uptake by ecosy\u2026",
+                    "retweet_count": 66,
+                    "user_id": 1666801356,
+                    "followers_count": 4418
+                }
+            }
+        },
+        "981969818483134465": {
+            "created_at": "Thu Apr 05 19:00:23 +0000 2018",
+            "full_text": "Time to update those lecture slides on the global N cycle, everybody. https://t.co/SIYNwXFk0y",
+            "retweet_count": 4,
+            "user_id": 364128995,
+            "followers_count": 1357,
+            "retweeted_TO": {
+                "982011012118392832": {
+                    "created_at": "Thu Apr 05 21:44:04 +0000 2018",
+                    "full_text": "RT @jwadeexperience: Time to update those lecture slides on the global N cycle, everybody. https://t.co/SIYNwXFk0y",
+                    "retweet_count": 4,
+                    "user_id": 1923721346,
+                    "followers_count": 1890
+                },
+                "982001928770080769": {
+                    "created_at": "Thu Apr 05 21:07:59 +0000 2018",
+                    "full_text": "RT @jwadeexperience: Time to update those lecture slides on the global N cycle, everybody. https://t.co/SIYNwXFk0y",
+                    "retweet_count": 4,
+                    "user_id": 2788176234,
+                    "followers_count": 2170
+                },
+                "981980161968148481": {
+                    "created_at": "Thu Apr 05 19:41:29 +0000 2018",
+                    "full_text": "RT @jwadeexperience: Time to update those lecture slides on the global N cycle, everybody. https://t.co/SIYNwXFk0y",
+                    "retweet_count": 4,
+                    "user_id": 311187995,
+                    "followers_count": 735
+                },
+                "981973482656313346": {
+                    "created_at": "Thu Apr 05 19:14:57 +0000 2018",
+                    "full_text": "RT @jwadeexperience: Time to update those lecture slides on the global N cycle, everybody. https://t.co/SIYNwXFk0y",
+                    "retweet_count": 4,
+                    "user_id": 368962505,
+                    "followers_count": 3254
+                }
+            }
+        },
+        "981979320666161152": {
+            "created_at": "Thu Apr 05 19:38:08 +0000 2018",
+            "full_text": "#mustreadmtwt Convergent evidence for widespread rock nitrogen sources in Earth\u2019s surface environment https://t.co/i2XuEFGu8I",
+            "retweet_count": 0,
+            "user_id": 869779953570729984,
+            "followers_count": 188
+        },
+        "981988619773657095": {
+            "created_at": "Thu Apr 05 20:15:06 +0000 2018",
+            "full_text": "Important stuff here! https://t.co/s0BuhebzGf",
+            "retweet_count": 1,
+            "user_id": 37016034,
+            "followers_count": 5312,
+            "retweeted_TO": {
+                "981994086268796930": {
+                    "created_at": "Thu Apr 05 20:36:49 +0000 2018",
+                    "full_text": "RT @DrLimnology: Important stuff here! https://t.co/s0BuhebzGf",
+                    "retweet_count": 1,
+                    "user_id": 1299900283,
+                    "followers_count": 10826
+                }
+            }
+        },
+        "981994752840273920": {
+            "created_at": "Thu Apr 05 20:39:28 +0000 2018",
+            "full_text": "Convergent evidence for widespread rock N sources in Earth\u2019s surface environment -  Houlton et al, Science https://t.co/SBoYpaOTIq",
+            "retweet_count": 0,
+            "user_id": 1068886081,
+            "followers_count": 1396
+        },
+        "981997056310079489": {
+            "created_at": "Thu Apr 05 20:48:37 +0000 2018",
+            "full_text": "Nice! Going to have to revise my biogeochemical cycles lecture notes https://t.co/Pr0fDf6MBA",
+            "retweet_count": 0,
+            "user_id": 3086909291,
+            "followers_count": 1245
+        },
+        "981999653221646336": {
+            "created_at": "Thu Apr 05 20:58:56 +0000 2018",
+            "full_text": "Interesting article about significant N source from the bedrocks. Convergent evidence for widespread rock nitrogen sources in Earth\u2019s surface environment https://t.co/z82eZq2bLD",
+            "retweet_count": 0,
+            "user_id": 704557633286463488,
+            "followers_count": 1038
+        },
+        "981987638675558400": {
+            "created_at": "Thu Apr 05 20:11:12 +0000 2018",
+            "full_text": "Convergent evidence for widespread rock nitrogen sources in Earth\u2019s surface environment https://t.co/OlR9DdXmVs",
+            "retweet_count": 0,
+            "user_id": 73281045,
+            "followers_count": 1653
+        },
+        "982010297086070785": {
+            "created_at": "Thu Apr 05 21:41:14 +0000 2018",
+            "full_text": "Wait, what? https://t.co/1EmxJ9uU9R",
+            "retweet_count": 1,
+            "user_id": 242364220,
+            "followers_count": 1064,
+            "retweeted_TO": {
+                "982020105470140418": {
+                    "created_at": "Thu Apr 05 22:20:12 +0000 2018",
+                    "full_text": "RT @jakehosen: Wait, what? https://t.co/1EmxJ9uU9R",
+                    "retweet_count": 1,
+                    "user_id": 3116196557,
+                    "followers_count": 1240
+                }
+            }
+        },
+        "982016574067425280": {
+            "created_at": "Thu Apr 05 22:06:10 +0000 2018",
+            "full_text": "Imagine finding an additional 26% to include in your budget... Convergent evidence for widespread rock nitrogen sources in Earth\u2019s surface environment https://t.co/xyLmk9sPif",
+            "retweet_count": 0,
+            "user_id": 2961619308,
+            "followers_count": 940
+        },
+        "982123504832200705": {
+            "created_at": "Fri Apr 06 05:11:05 +0000 2018",
+            "full_text": "\"our spatial weathering model reveal that ~19 to 31 teragrams of nitrogen are mobilized from near-surface rocks annually.... thereby increasing the unmanaged (preindustrial) terrestrial nitrogen balance from 8 to 26%.\" https://t.co/GPgMrPmesX",
+            "retweet_count": 7,
+            "user_id": 810618104929779712,
+            "followers_count": 1015,
+            "retweeted_TO": {
+                "982246456680529920": {
+                    "created_at": "Fri Apr 06 13:19:39 +0000 2018",
+                    "full_text": "RT @RoeyAngel: \"our spatial weathering model reveal that ~19 to 31 teragrams of nitrogen are mobilized from near-surface rocks annually....\u2026",
+                    "retweet_count": 7,
+                    "user_id": 732367686630412288,
+                    "followers_count": 337
+                },
+                "982222612846690304": {
+                    "created_at": "Fri Apr 06 11:44:54 +0000 2018",
+                    "full_text": "RT @RoeyAngel: \"our spatial weathering model reveal that ~19 to 31 teragrams of nitrogen are mobilized from near-surface rocks annually....\u2026",
+                    "retweet_count": 7,
+                    "user_id": 931147927,
+                    "followers_count": 3388
+                },
+                "982219165451735041": {
+                    "created_at": "Fri Apr 06 11:31:12 +0000 2018",
+                    "full_text": "RT @RoeyAngel: \"our spatial weathering model reveal that ~19 to 31 teragrams of nitrogen are mobilized from near-surface rocks annually....\u2026",
+                    "retweet_count": 7,
+                    "user_id": 3074806260,
+                    "followers_count": 996
+                },
+                "982174481299865601": {
+                    "created_at": "Fri Apr 06 08:33:38 +0000 2018",
+                    "full_text": "RT @RoeyAngel: \"our spatial weathering model reveal that ~19 to 31 teragrams of nitrogen are mobilized from near-surface rocks annually....\u2026",
+                    "retweet_count": 7,
+                    "user_id": 948019459838447616,
+                    "followers_count": 176
+                },
+                "982154469633765377": {
+                    "created_at": "Fri Apr 06 07:14:07 +0000 2018",
+                    "full_text": "RT @RoeyAngel: \"our spatial weathering model reveal that ~19 to 31 teragrams of nitrogen are mobilized from near-surface rocks annually....\u2026",
+                    "retweet_count": 7,
+                    "user_id": 750982256567676928,
+                    "followers_count": 301
+                },
+                "982139117952643072": {
+                    "created_at": "Fri Apr 06 06:13:07 +0000 2018",
+                    "full_text": "RT @RoeyAngel: \"our spatial weathering model reveal that ~19 to 31 teragrams of nitrogen are mobilized from near-surface rocks annually....\u2026",
+                    "retweet_count": 7,
+                    "user_id": 274870271,
+                    "followers_count": 2759
+                },
+                "982128887705382914": {
+                    "created_at": "Fri Apr 06 05:32:28 +0000 2018",
+                    "full_text": "RT @RoeyAngel: \"our spatial weathering model reveal that ~19 to 31 teragrams of nitrogen are mobilized from near-surface rocks annually....\u2026",
+                    "retweet_count": 7,
+                    "user_id": 591202090,
+                    "followers_count": 5859
+                }
+            }
+        },
+        "982163364775211014": {
+            "created_at": "Fri Apr 06 07:49:28 +0000 2018",
+            "full_text": "Just in time to update my nitrogen cycle lecture... new study finds bedrock is as big a source of nitrogen as the atmosphere in most terrestrial ecosystems on Earth. 'Convergent evidence for widespread rock nitrogen sources in Earth\u2019s surface environment' https://t.co/R558XMNlOi",
+            "retweet_count": 0,
+            "user_id": 1098157627,
+            "followers_count": 965
+        },
+        "982208515698712576": {
+            "created_at": "Fri Apr 06 10:48:53 +0000 2018",
+            "full_text": "Great paper, will make all of us rethink streams and land interactions regarding Nitrogen! https://t.co/YQA5hYsnkJ",
+            "retweet_count": 0,
+            "user_id": 300296783,
+            "followers_count": 1034
+        },
+        "982219670861180930": {
+            "created_at": "Fri Apr 06 11:33:12 +0000 2018",
+            "full_text": "Woah. My world just got rocked. https://t.co/LZCRwENJNy",
+            "retweet_count": 0,
+            "user_id": 3044888907,
+            "followers_count": 794
+        },
+        "982238778176585728": {
+            "created_at": "Fri Apr 06 12:49:08 +0000 2018",
+            "full_text": "Rock N paper @BenHoulton et al. out today in Science, paradigm shifting perspective underscoring in situ weathering of bedrock N inputs to ecosystems to reconcile global N budgets, with implications for nutrient driven controls over terrestrial C sinks https://t.co/yhtzoMmYSP",
+            "retweet_count": 0,
+            "user_id": 1012729478,
+            "followers_count": 1123
+        },
+        "982239427064807425": {
+            "created_at": "Fri Apr 06 12:51:43 +0000 2018",
+            "full_text": "Article here: \"...nitrogen source that rivals atmospheric nitrogen inputs across major sectors of the global terrestrial environment.\"\nhttps://t.co/ygvOwGFFws",
+            "retweet_count": 0,
+            "user_id": 824654826806059012,
+            "followers_count": 1616
+        },
+        "982025574007885824": {
+            "created_at": "Thu Apr 05 22:41:56 +0000 2018",
+            "full_text": "Convergent evidence for widespread rock nitrogen sources in Earth\u2019s surface environment https://t.co/YL1BTHpIYP",
+            "retweet_count": 0,
+            "user_id": 2446406341,
+            "followers_count": 5765
+        },
+        "982049754191347712": {
+            "created_at": "Fri Apr 06 00:18:01 +0000 2018",
+            "full_text": "Interesting  https://t.co/3W6c7VBT5s",
+            "retweet_count": 0,
+            "user_id": 2153955738,
+            "followers_count": 139
+        },
+        "982075595172470784": {
+            "created_at": "Fri Apr 06 02:00:42 +0000 2018",
+            "full_text": "Rocks. Nature's fertilizer. https://t.co/UpwVNm6cWG",
+            "retweet_count": 0,
+            "user_id": 503776268,
+            "followers_count": 3488
+        },
+        "982082630609862658": {
+            "created_at": "Fri Apr 06 02:28:40 +0000 2018",
+            "full_text": "Convergent evidence for widespread rock nitrogen sources in Earth\u2019s surface environment https://t.co/XlSV0zwuIy",
+            "retweet_count": 6,
+            "user_id": 3074461075,
+            "followers_count": 340,
+            "retweeted_TO": {
+                "982350060565315592": {
+                    "created_at": "Fri Apr 06 20:11:20 +0000 2018",
+                    "full_text": "RT @cindyprescott6: Convergent evidence for widespread rock nitrogen sources in Earth\u2019s surface environment https://t.co/XlSV0zwuIy",
+                    "retweet_count": 6,
+                    "user_id": 1265523721,
+                    "followers_count": 293
+                },
+                "982166648948838400": {
+                    "created_at": "Fri Apr 06 08:02:31 +0000 2018",
+                    "full_text": "RT @cindyprescott6: Convergent evidence for widespread rock nitrogen sources in Earth\u2019s surface environment https://t.co/XlSV0zwuIy",
+                    "retweet_count": 6,
+                    "user_id": 1300135766,
+                    "followers_count": 2113
+                },
+                "982114204395044864": {
+                    "created_at": "Fri Apr 06 04:34:07 +0000 2018",
+                    "full_text": "RT @cindyprescott6: Convergent evidence for widespread rock nitrogen sources in Earth\u2019s surface environment https://t.co/XlSV0zwuIy",
+                    "retweet_count": 6,
+                    "user_id": 274870271,
+                    "followers_count": 2759
+                },
+                "982105635763339264": {
+                    "created_at": "Fri Apr 06 04:00:04 +0000 2018",
+                    "full_text": "RT @cindyprescott6: Convergent evidence for widespread rock nitrogen sources in Earth\u2019s surface environment https://t.co/XlSV0zwuIy",
+                    "retweet_count": 6,
+                    "user_id": 46204198,
+                    "followers_count": 701
+                },
+                "982096015875592192": {
+                    "created_at": "Fri Apr 06 03:21:51 +0000 2018",
+                    "full_text": "RT @cindyprescott6: Convergent evidence for widespread rock nitrogen sources in Earth\u2019s surface environment https://t.co/XlSV0zwuIy",
+                    "retweet_count": 6,
+                    "user_id": 3074806260,
+                    "followers_count": 996
+                },
+                "982089633688444928": {
+                    "created_at": "Fri Apr 06 02:56:29 +0000 2018",
+                    "full_text": "RT @cindyprescott6: Convergent evidence for widespread rock nitrogen sources in Earth\u2019s surface environment https://t.co/XlSV0zwuIy",
+                    "retweet_count": 6,
+                    "user_id": 410396534,
+                    "followers_count": 1303
+                }
+            }
+        },
+        "982092671215845376": {},
+        "982282288246304768": {
+            "created_at": "Fri Apr 06 15:42:02 +0000 2018",
+            "full_text": "New research in Science finds that bedrock is as large a source of terrestrial nitrogen as the atmosphere is: ($) https://t.co/Pg1fJly3R5 https://t.co/gmvQH2Hlji",
+            "retweet_count": 31,
+            "user_id": 32372834,
+            "followers_count": 3198444,
+            "retweeted_TO": {
+                "1074265972482072577": {
+                    "created_at": "Sun Dec 16 11:32:21 +0000 2018",
+                    "full_text": "RT @sciencemagazine: New research in Science finds that bedrock is as large a source of terrestrial nitrogen as the atmosphere is: ($) http\u2026",
+                    "retweet_count": 31,
+                    "user_id": 1071220252686467073,
+                    "followers_count": 115
+                },
+                "983353117663289344": {
+                    "created_at": "Mon Apr 09 14:37:07 +0000 2018",
+                    "full_text": "RT @sciencemagazine: New research in Science finds that bedrock is as large a source of terrestrial nitrogen as the atmosphere is: ($) http\u2026",
+                    "retweet_count": 31,
+                    "user_id": 3143961771,
+                    "followers_count": 251
+                },
+                "983091586690179073": {
+                    "created_at": "Sun Apr 08 21:17:53 +0000 2018",
+                    "full_text": "RT @sciencemagazine: New research in Science finds that bedrock is as large a source of terrestrial nitrogen as the atmosphere is: ($) http\u2026",
+                    "retweet_count": 31,
+                    "user_id": 903991436818960385,
+                    "followers_count": 7
+                },
+                "982983174241312768": {
+                    "created_at": "Sun Apr 08 14:07:06 +0000 2018",
+                    "full_text": "RT @sciencemagazine: New research in Science finds that bedrock is as large a source of terrestrial nitrogen as the atmosphere is: ($) http\u2026",
+                    "retweet_count": 31,
+                    "user_id": 287538756,
+                    "followers_count": 753
+                },
+                "982922434595635201": {
+                    "created_at": "Sun Apr 08 10:05:44 +0000 2018",
+                    "full_text": "RT @sciencemagazine: New research in Science finds that bedrock is as large a source of terrestrial nitrogen as the atmosphere is: ($) http\u2026",
+                    "retweet_count": 31,
+                    "user_id": 1536768007,
+                    "followers_count": 62
+                },
+                "982551826426925056": {
+                    "created_at": "Sat Apr 07 09:33:05 +0000 2018",
+                    "full_text": "RT @sciencemagazine: New research in Science finds that bedrock is as large a source of terrestrial nitrogen as the atmosphere is: ($) http\u2026",
+                    "retweet_count": 31,
+                    "user_id": 4659874881,
+                    "followers_count": 7296
+                },
+                "982508492526239745": {
+                    "created_at": "Sat Apr 07 06:40:53 +0000 2018",
+                    "full_text": "RT @sciencemagazine: New research in Science finds that bedrock is as large a source of terrestrial nitrogen as the atmosphere is: ($) http\u2026",
+                    "retweet_count": 31,
+                    "user_id": 4296509128,
+                    "followers_count": 183
+                },
+                "982487517856518145": {
+                    "created_at": "Sat Apr 07 05:17:32 +0000 2018",
+                    "full_text": "RT @sciencemagazine: New research in Science finds that bedrock is as large a source of terrestrial nitrogen as the atmosphere is: ($) http\u2026",
+                    "retweet_count": 31,
+                    "user_id": 766728146074894336,
+                    "followers_count": 358
+                },
+                "982396828422254592": {
+                    "created_at": "Fri Apr 06 23:17:10 +0000 2018",
+                    "full_text": "RT @sciencemagazine: New research in Science finds that bedrock is as large a source of terrestrial nitrogen as the atmosphere is: ($) http\u2026",
+                    "retweet_count": 31,
+                    "user_id": 2595792374,
+                    "followers_count": 28
+                },
+                "982391664286273537": {
+                    "created_at": "Fri Apr 06 22:56:39 +0000 2018",
+                    "full_text": "RT @sciencemagazine: New research in Science finds that bedrock is as large a source of terrestrial nitrogen as the atmosphere is: ($) http\u2026",
+                    "retweet_count": 31,
+                    "user_id": 253388937,
+                    "followers_count": 2533
+                },
+                "982326408767827973": {
+                    "created_at": "Fri Apr 06 18:37:21 +0000 2018",
+                    "full_text": "RT @sciencemagazine: New research in Science finds that bedrock is as large a source of terrestrial nitrogen as the atmosphere is: ($) http\u2026",
+                    "retweet_count": 31,
+                    "user_id": 2343718973,
+                    "followers_count": 1524
+                },
+                "982318669710557184": {
+                    "created_at": "Fri Apr 06 18:06:36 +0000 2018",
+                    "full_text": "RT @sciencemagazine: New research in Science finds that bedrock is as large a source of terrestrial nitrogen as the atmosphere is: ($) http\u2026",
+                    "retweet_count": 31,
+                    "user_id": 398483708,
+                    "followers_count": 620
+                },
+                "982314981126524934": {
+                    "created_at": "Fri Apr 06 17:51:56 +0000 2018",
+                    "full_text": "RT @sciencemagazine: New research in Science finds that bedrock is as large a source of terrestrial nitrogen as the atmosphere is: ($) http\u2026",
+                    "retweet_count": 31,
+                    "user_id": 261957300,
+                    "followers_count": 189
+                },
+                "982308655881183233": {
+                    "created_at": "Fri Apr 06 17:26:48 +0000 2018",
+                    "full_text": "RT @sciencemagazine: New research in Science finds that bedrock is as large a source of terrestrial nitrogen as the atmosphere is: ($) http\u2026",
+                    "retweet_count": 31,
+                    "user_id": 956873405126660096,
+                    "followers_count": 321
+                },
+                "982305190035337216": {
+                    "created_at": "Fri Apr 06 17:13:02 +0000 2018",
+                    "full_text": "RT @sciencemagazine: New research in Science finds that bedrock is as large a source of terrestrial nitrogen as the atmosphere is: ($) http\u2026",
+                    "retweet_count": 31,
+                    "user_id": 1914128815,
+                    "followers_count": 3889
+                },
+                "982300993080639490": {
+                    "created_at": "Fri Apr 06 16:56:21 +0000 2018",
+                    "full_text": "RT @sciencemagazine: New research in Science finds that bedrock is as large a source of terrestrial nitrogen as the atmosphere is: ($) http\u2026",
+                    "retweet_count": 31,
+                    "user_id": 66644497,
+                    "followers_count": 4755
+                },
+                "982296400678436864": {
+                    "created_at": "Fri Apr 06 16:38:06 +0000 2018",
+                    "full_text": "RT @sciencemagazine: New research in Science finds that bedrock is as large a source of terrestrial nitrogen as the atmosphere is: ($) http\u2026",
+                    "retweet_count": 31,
+                    "user_id": 840685140065959936,
+                    "followers_count": 149
+                },
+                "982290908900081664": {
+                    "created_at": "Fri Apr 06 16:16:17 +0000 2018",
+                    "full_text": "RT @sciencemagazine: New research in Science finds that bedrock is as large a source of terrestrial nitrogen as the atmosphere is: ($) http\u2026",
+                    "retweet_count": 31,
+                    "user_id": 19009614,
+                    "followers_count": 2098
+                }
+            }
+        },
+        "982284094410129409": {
+            "created_at": "Fri Apr 06 15:49:12 +0000 2018",
+            "full_text": "This is the most exciting story I have come across in a long time. Textbooks on the nitrogen cycle will have to be rewritten. \nConvergent evidence for widespread rock nitrogen sources in Earth\u2019s surface environment https://t.co/QauxS0fP57",
+            "retweet_count": 0,
+            "user_id": 2590601090,
+            "followers_count": 384
+        },
+        "982269886335348740": {
+            "created_at": "Fri Apr 06 14:52:45 +0000 2018",
+            "full_text": "Convergent evidence for widespread rock nitrogen sources in Earth\u2019s surface environment https://t.co/5xawFBz3Lp",
+            "retweet_count": 0,
+            "user_id": 972864827684278272,
+            "followers_count": 108
+        },
+        "982282006208790528": {
+            "created_at": "Fri Apr 06 15:40:54 +0000 2018",
+            "full_text": "Interesting new article on rock as a source of nitrogen: https://t.co/ePdlZxwemu",
+            "retweet_count": 2,
+            "user_id": 1049062986,
+            "followers_count": 179,
+            "retweeted_TO": {
+                "982339294437232640": {
+                    "created_at": "Fri Apr 06 19:28:33 +0000 2018",
+                    "full_text": "RT @AprilMMelvin: Interesting new article on rock as a source of nitrogen: https://t.co/ePdlZxwemu",
+                    "retweet_count": 2,
+                    "user_id": 1063407607,
+                    "followers_count": 649
+                }
+            }
+        },
+        "982142703596011521": {
+            "created_at": "Fri Apr 06 06:27:22 +0000 2018",
+            "full_text": "Convergent evidence for widespread rock nitrogen sources in Earth\u2019s surface environment https://t.co/PCCMWROtsV",
+            "retweet_count": 0,
+            "user_id": 2545900439,
+            "followers_count": 2560
+        },
+        "982299341569253376": {
+            "created_at": "Fri Apr 06 16:49:47 +0000 2018",
+            "full_text": "For a while we've assumed that most N in the biosphere comes from the atmosphere. But rock-derived N may be important to ecosystems, especially in mountains and high-latitudes (where biological N fixation is temperature limited) https://t.co/EMI5LMMVAW",
+            "retweet_count": 3,
+            "user_id": 233241808,
+            "followers_count": 2076,
+            "retweeted_TO": {
+                "982440826734231552": {
+                    "created_at": "Sat Apr 07 02:12:00 +0000 2018",
+                    "full_text": "RT @wooddecomp: For a while we've assumed that most N in the biosphere comes from the atmosphere. But rock-derived N may be important to ec\u2026",
+                    "retweet_count": 3,
+                    "user_id": 217226315,
+                    "followers_count": 152
+                },
+                "982349477095723008": {
+                    "created_at": "Fri Apr 06 20:09:01 +0000 2018",
+                    "full_text": "RT @wooddecomp: For a while we've assumed that most N in the biosphere comes from the atmosphere. But rock-derived N may be important to ec\u2026",
+                    "retweet_count": 3,
+                    "user_id": 3880653263,
+                    "followers_count": 480
+                }
+            }
+        },
+        "982318839961497601": {
+            "created_at": "Fri Apr 06 18:07:16 +0000 2018",
+            "full_text": "Time to change the basic ecology lecture again? Convergent evidence for widespread rock #nitrogen sources in Earth\u2019s surface environment https://t.co/t8OPQZYzLQ",
+            "retweet_count": 13,
+            "user_id": 2974526806,
+            "followers_count": 10156,
+            "retweeted_TO": {
+                "985822945208565762": {
+                    "created_at": "Mon Apr 16 10:11:20 +0000 2018",
+                    "full_text": "RT @mrillig: Time to change the basic ecology lecture again? Convergent evidence for widespread rock #nitrogen sources in Earth\u2019s surface e\u2026",
+                    "retweet_count": 13,
+                    "user_id": 1693535786,
+                    "followers_count": 679
+                },
+                "985802012720812032": {
+                    "created_at": "Mon Apr 16 08:48:09 +0000 2018",
+                    "full_text": "RT @mrillig: Time to change the basic ecology lecture again? Convergent evidence for widespread rock #nitrogen sources in Earth\u2019s surface e\u2026",
+                    "retweet_count": 13,
+                    "user_id": 2301682464,
+                    "followers_count": 1086
+                },
+                "983299122924056578": {
+                    "created_at": "Mon Apr 09 11:02:34 +0000 2018",
+                    "full_text": "RT @mrillig: Time to change the basic ecology lecture again? Convergent evidence for widespread rock #nitrogen sources in Earth\u2019s surface e\u2026",
+                    "retweet_count": 13,
+                    "user_id": 829822599462948866,
+                    "followers_count": 287
+                },
+                "983193934066315265": {
+                    "created_at": "Mon Apr 09 04:04:35 +0000 2018",
+                    "full_text": "RT @mrillig: Time to change the basic ecology lecture again? Convergent evidence for widespread rock #nitrogen sources in Earth\u2019s surface e\u2026",
+                    "retweet_count": 13,
+                    "user_id": 1924228452,
+                    "followers_count": 7454
+                },
+                "982935613249908736": {
+                    "created_at": "Sun Apr 08 10:58:06 +0000 2018",
+                    "full_text": "RT @mrillig: Time to change the basic ecology lecture again? Convergent evidence for widespread rock #nitrogen sources in Earth\u2019s surface e\u2026",
+                    "retweet_count": 13,
+                    "user_id": 1014248876,
+                    "followers_count": 1332
+                },
+                "982685239376949249": {
+                    "created_at": "Sat Apr 07 18:23:13 +0000 2018",
+                    "full_text": "RT @mrillig: Time to change the basic ecology lecture again? Convergent evidence for widespread rock #nitrogen sources in Earth\u2019s surface e\u2026",
+                    "retweet_count": 13,
+                    "user_id": 1365671737,
+                    "followers_count": 1068
+                },
+                "982650130947100672": {},
+                "982613222158151685": {
+                    "created_at": "Sat Apr 07 13:37:02 +0000 2018",
+                    "full_text": "RT @mrillig: Time to change the basic ecology lecture again? Convergent evidence for widespread rock #nitrogen sources in Earth\u2019s surface e\u2026",
+                    "retweet_count": 13,
+                    "user_id": 1098157627,
+                    "followers_count": 965
+                },
+                "982525654590771200": {
+                    "created_at": "Sat Apr 07 07:49:05 +0000 2018",
+                    "full_text": "RT @mrillig: Time to change the basic ecology lecture again? Convergent evidence for widespread rock #nitrogen sources in Earth\u2019s surface e\u2026",
+                    "retweet_count": 13,
+                    "user_id": 474934008,
+                    "followers_count": 519
+                },
+                "982479400947109889": {
+                    "created_at": "Sat Apr 07 04:45:17 +0000 2018",
+                    "full_text": "RT @mrillig: Time to change the basic ecology lecture again? Convergent evidence for widespread rock #nitrogen sources in Earth\u2019s surface e\u2026",
+                    "retweet_count": 13,
+                    "user_id": 730298231763161088,
+                    "followers_count": 1779
+                },
+                "982440949543563264": {
+                    "created_at": "Sat Apr 07 02:12:29 +0000 2018",
+                    "full_text": "RT @mrillig: Time to change the basic ecology lecture again? Convergent evidence for widespread rock #nitrogen sources in Earth\u2019s surface e\u2026",
+                    "retweet_count": 13,
+                    "user_id": 2674045985,
+                    "followers_count": 5087
+                },
+                "982344172471488513": {
+                    "created_at": "Fri Apr 06 19:47:56 +0000 2018",
+                    "full_text": "RT @mrillig: Time to change the basic ecology lecture again? Convergent evidence for widespread rock #nitrogen sources in Earth\u2019s surface e\u2026",
+                    "retweet_count": 13,
+                    "user_id": 852247770547269632,
+                    "followers_count": 644
+                },
+                "982334037846102018": {
+                    "created_at": "Fri Apr 06 19:07:40 +0000 2018",
+                    "full_text": "RT @mrillig: Time to change the basic ecology lecture again? Convergent evidence for widespread rock #nitrogen sources in Earth\u2019s surface e\u2026",
+                    "retweet_count": 13,
+                    "user_id": 770249468595830784,
+                    "followers_count": 812
+                }
+            }
+        },
+        "982319479152459776": {
+            "created_at": "Fri Apr 06 18:09:49 +0000 2018",
+            "full_text": "#rock #nitrogen #biogeochemistry #fundamental https://t.co/h6o56Od2Hj",
+            "retweet_count": 0,
+            "user_id": 2666669125,
+            "followers_count": 1619
+        },
+        "982319849270587393": {
+            "created_at": "Fri Apr 06 18:11:17 +0000 2018",
+            "full_text": "Earth's #bedrock as a significant source of global #nitrogen. HT @aaas https://t.co/Z7CIcE0CLi\nHT @ScienceDaily https://t.co/dsfbxY1Kul #weathering #climatechange #plants  https://t.co/irIe94cPUA https://t.co/Iev8goBDTN",
+            "retweet_count": 0,
+            "user_id": 164327432,
+            "followers_count": 1800
+        },
+        "982326643816476673": {
+            "created_at": "Fri Apr 06 18:38:17 +0000 2018",
+            "full_text": "All the more impressive given that the wikipedia page for the nitrogen cycling barely mentions rock weathering as a source. And as mentioned in the paper, some fungi have a direct role in it &amp; help plant roots get it (paging @theGSBI) https://t.co/s1MxSCjyuC",
+            "retweet_count": 1,
+            "user_id": 2323454084,
+            "followers_count": 852,
+            "retweeted_TO": {
+                "982339061967917056": {
+                    "created_at": "Fri Apr 06 19:27:38 +0000 2018",
+                    "full_text": "RT @WalterAndriuzzi: All the more impressive given that the wikipedia page for the nitrogen cycling barely mentions rock weathering as a so\u2026",
+                    "retweet_count": 1,
+                    "user_id": 246697434,
+                    "followers_count": 1136
+                }
+            }
+        },
+        "982327940154146816": {
+            "created_at": "Fri Apr 06 18:43:26 +0000 2018",
+            "full_text": "Just more evidence the N cycle rocks.... https://t.co/GnephfultF",
+            "retweet_count": 0,
+            "user_id": 3248386683,
+            "followers_count": 423
+        },
+        "982338340577005568": {
+            "created_at": "Fri Apr 06 19:24:46 +0000 2018",
+            "full_text": "This is, well, amazing (from the abstract). Helps make sense of the large 20th century land carbon sink. https://t.co/uBxaENxzMy",
+            "retweet_count": 1,
+            "user_id": 357661916,
+            "followers_count": 10469,
+            "retweeted_TO": {
+                "982353239382286336": {
+                    "created_at": "Fri Apr 06 20:23:58 +0000 2018",
+                    "full_text": "RT @SimonLLewis: This is, well, amazing (from the abstract). Helps make sense of the large 20th century land carbon sink. https://t.co/uBxa\u2026",
+                    "retweet_count": 1,
+                    "user_id": 2176705920,
+                    "followers_count": 653
+                }
+            }
+        },
+        "982378326919712769": {
+            "created_at": "Fri Apr 06 22:03:39 +0000 2018",
+            "full_text": "Nitrogen from bedrock surprisingly adds between 19 and 31 Teragrams to terrestrial ecosystems compared to 100 Tg from biological fixing, 10 Tg from lightening and 140 Tg and increasing from humans (fertiliser, crops &amp; fossil fuels)  https://t.co/o2ZMBbEiHd",
+            "retweet_count": 2,
+            "user_id": 2881236430,
+            "followers_count": 21010,
+            "retweeted_TO": {
+                "982664532983238657": {
+                    "created_at": "Sat Apr 07 17:00:56 +0000 2018",
+                    "full_text": "RT @ProfMarkMaslin: Nitrogen from bedrock surprisingly adds between 19 and 31 Teragrams to terrestrial ecosystems compared to 100 Tg from b\u2026",
+                    "retweet_count": 2,
+                    "user_id": 2881236430,
+                    "followers_count": 21010
+                },
+                "982645477689749506": {
+                    "created_at": "Sat Apr 07 15:45:13 +0000 2018",
+                    "full_text": "RT @ProfMarkMaslin: Nitrogen from bedrock surprisingly adds between 19 and 31 Teragrams to terrestrial ecosystems compared to 100 Tg from b\u2026",
+                    "retweet_count": 2,
+                    "user_id": 387838019,
+                    "followers_count": 2174
+                }
+            }
+        },
+        "982431144556748801": {
+            "created_at": "Sat Apr 07 01:33:32 +0000 2018",
+            "full_text": "@BenHoulton and colleagues show that bedrocks are large source of nitrogen that is comparable to atmospheric nitrogen inputs. https://t.co/mqaDWdhRoQ",
+            "retweet_count": 0,
+            "user_id": 977252469183889409,
+            "followers_count": 147
+        },
+        "982487742352420866": {
+            "created_at": "Sat Apr 07 05:18:26 +0000 2018",
+            "full_text": "Yeah, I guess if you force #biogeochem textbooks to change, those findings go in @sciencemagazine. It's specifically from sedimentary rocks containing deposits of (old) biologically fixed N (focus on igneous/metamorphic rocks may be why this N source was missed previously) https://t.co/Hdgbq7pxRX",
+            "retweet_count": 0,
+            "user_id": 733412382152646657,
+            "followers_count": 454
+        },
+        "982493195455131648": {},
+        "982493799233404928": {
+            "created_at": "Sat Apr 07 05:42:30 +0000 2018",
+            "full_text": "Just to say it, this is a #RockN paper. \ud83e\udd13 https://t.co/Jk1E33irv0",
+            "retweet_count": 0,
+            "user_id": 459077185,
+            "followers_count": 1033
+        },
+        "982517318201769984": {
+            "created_at": "Sat Apr 07 07:15:57 +0000 2018",
+            "full_text": "Malarky! #keepdreaminpal https://t.co/cHuVsQJgOu",
+            "retweet_count": 0,
+            "user_id": 915243103,
+            "followers_count": 25
+        },
+        "982542664594870272": {
+            "created_at": "Sat Apr 07 08:56:40 +0000 2018",
+            "full_text": "Who would have thought?  Convergent evidence for widespread rock nitrogen sources in Earth\u2019s surface environment https://t.co/GCqNiVV62P",
+            "retweet_count": 0,
+            "user_id": 555840714,
+            "followers_count": 694
+        },
+        "982618293713354752": {
+            "created_at": "Sat Apr 07 13:57:12 +0000 2018",
+            "full_text": "Iso osa kasvien typest\u00e4 on per\u00e4isin peruskalliosta!?? Maaper\u00e4ekologia menee kovaa tahtia uusiksi. https://t.co/9LpFQvE1P6",
+            "retweet_count": 0,
+            "user_id": 870959318400716800,
+            "followers_count": 4463
+        },
+        "982630330774507520": {
+            "created_at": "Sat Apr 07 14:45:01 +0000 2018",
+            "full_text": "El nitr\u00f3geno puede ser un sost\u00e9n para la vida cuando se libera de las limitaciones del sustrato rocoso @ucdavis https://t.co/7TnidHKOrf",
+            "retweet_count": 1,
+            "user_id": 883350718706577409,
+            "followers_count": 2606,
+            "retweeted_TO": {}
+        },
+        "982631050223353857": {
+            "created_at": "Sat Apr 07 14:47:53 +0000 2018",
+            "full_text": "Cool study from an LAWR colleague. https://t.co/zhD9B35x2i",
+            "retweet_count": 0,
+            "user_id": 1431059341,
+            "followers_count": 211
+        },
+        "982652864332836864": {
+            "created_at": "Sat Apr 07 16:14:34 +0000 2018",
+            "full_text": "Wow!  Already updating my ecosystem ecology lectures!\nConvergent evidence for widespread rock nitrogen sources in Earth\u2019s surface environment https://t.co/ZWl60S4Rsn",
+            "retweet_count": 1,
+            "user_id": 4772378486,
+            "followers_count": 512,
+            "retweeted_TO": {
+                "982847933270736897": {
+                    "created_at": "Sun Apr 08 05:09:42 +0000 2018",
+                    "full_text": "RT @cknight102: Wow!  Already updating my ecosystem ecology lectures!\nConvergent evidence for widespread rock nitrogen sources in Earth\u2019s s\u2026",
+                    "retweet_count": 1,
+                    "user_id": 1403482585,
+                    "followers_count": 1434
+                }
+            }
+        },
+        "982656535426994179": {
+            "created_at": "Sat Apr 07 16:29:09 +0000 2018",
+            "full_text": "What will happen, then, after we use this new background? https://t.co/H4YRtAuvlX",
+            "retweet_count": 0,
+            "user_id": 25597955,
+            "followers_count": 797
+        },
+        "982677862514876417": {
+            "created_at": "Sat Apr 07 17:53:54 +0000 2018",
+            "full_text": "Study shows that nitrogen nutrients for plants come equally from the atmosphere and crustal bedrock. https://t.co/Yr5QWWlEhe",
+            "retweet_count": 2,
+            "user_id": 36992985,
+            "followers_count": 16395,
+            "retweeted_TO": {
+                "982768541018542080": {
+                    "created_at": "Sat Apr 07 23:54:13 +0000 2018",
+                    "full_text": "RT @RTB_HRoss: Study shows that nitrogen nutrients for plants come equally from the atmosphere and crustal bedrock. https://t.co/Yr5QWWlEhe",
+                    "retweet_count": 2,
+                    "user_id": 16601288,
+                    "followers_count": 96
+                },
+                "982685272117792769": {
+                    "created_at": "Sat Apr 07 18:23:20 +0000 2018",
+                    "full_text": "RT @RTB_HRoss: Study shows that nitrogen nutrients for plants come equally from the atmosphere and crustal bedrock. https://t.co/Yr5QWWlEhe",
+                    "retweet_count": 2,
+                    "user_id": 1066755445,
+                    "followers_count": 260
+                }
+            }
+        },
+        "982716405920432128": {},
+        "982721766312333312": {},
+        "982754459108368384": {
+            "created_at": "Sat Apr 07 22:58:16 +0000 2018",
+            "full_text": "Study suggests weathering of rock contributes 6 to 17% of the total terrestrial nitrogen budget https://t.co/TXxaZW52kY",
+            "retweet_count": 0,
+            "user_id": 709470977848049664,
+            "followers_count": 86
+        },
+        "982896118714552321": {
+            "created_at": "Sun Apr 08 08:21:10 +0000 2018",
+            "full_text": "Su Science: non tutto l'azoto viene dall'atmosfera https://t.co/dKaqJRhvIB",
+            "retweet_count": 1,
+            "user_id": 493307095,
+            "followers_count": 1065,
+            "retweeted_TO": {
+                "983288281642172416": {
+                    "created_at": "Mon Apr 09 10:19:29 +0000 2018",
+                    "full_text": "RT @ForestTweeting: Su Science: non tutto l'azoto viene dall'atmosfera https://t.co/dKaqJRhvIB",
+                    "retweet_count": 1,
+                    "user_id": 849970181858349056,
+                    "followers_count": 59
+                }
+            }
+        },
+        "983110542989647872": {
+            "created_at": "Sun Apr 08 22:33:13 +0000 2018",
+            "full_text": "\"This runs counter the centuries-long paradigm that has laid the foundation for the environmental sciences\u201d Professor Ben Houlton  #nitrogen #climatechange #EnvSciences https://t.co/mUzo19bqDj https://t.co/X9Ml8GrgEY",
+            "retweet_count": 0,
+            "user_id": 118896869,
+            "followers_count": 1795
+        },
+        "983198499217981442": {
+            "created_at": "Mon Apr 09 04:22:43 +0000 2018",
+            "full_text": "https://t.co/F2Ijocwvsa https://t.co/b5ipgYyj6S",
+            "retweet_count": 0,
+            "user_id": 370095625,
+            "followers_count": 29
+        },
+        "983242978348208128": {
+            "created_at": "Mon Apr 09 07:19:28 +0000 2018",
+            "full_text": "Convergent evidence for widespread rock nitrogen sources in Earth\u2019s surface environment https://t.co/pssam7pUpC",
+            "retweet_count": 0,
+            "user_id": 874251688932249601,
+            "followers_count": 4660
+        },
+        "983387686382776322": {
+            "created_at": "Mon Apr 09 16:54:29 +0000 2018",
+            "full_text": "Convergent evidence for widespread rock nitrogen sources in Earth\u2019s surface environment\n\nhttps://t.co/E1WCqVkNNZ\n\nhttps://t.co/CIG5GKgZ94 https://t.co/E1WCqVkNNZ",
+            "retweet_count": 0,
+            "user_id": 4798191521,
+            "followers_count": 166
+        },
+        "983412931906830336": {
+            "created_at": "Mon Apr 09 18:34:48 +0000 2018",
+            "full_text": "Awesome new paper from our lab!! I'm lucky to get to work on this super cool project about an important, but overlooked, source of nitrogen. https://t.co/FpMqouhTJV",
+            "retweet_count": 0,
+            "user_id": 1385847078,
+            "followers_count": 528
+        },
+        "983427496111517696": {
+            "created_at": "Mon Apr 09 19:32:40 +0000 2018",
+            "full_text": "Surprisingly, #bedrock may be a just as important source of terrestrial #nitrogen inputs as the #atmosphere according to Houlton et al 2018 @sciencemagazine https://t.co/6J7UxCNo5f",
+            "retweet_count": 0,
+            "user_id": 2188546916,
+            "followers_count": 404
+        },
+        "983554404056907777": {
+            "created_at": "Tue Apr 10 03:56:58 +0000 2018",
+            "full_text": "Convergent evidence for widespread rock nitrogen sources in Earth\u2019s surface environment https://t.co/NaV2oPtAQ7",
+            "retweet_count": 2,
+            "user_id": 599846145,
+            "followers_count": 2300,
+            "retweeted_TO": {
+                "983584495990292480": {
+                    "created_at": "Tue Apr 10 05:56:32 +0000 2018",
+                    "full_text": "RT @KHofmockel: Convergent evidence for widespread rock nitrogen sources in Earth\u2019s surface environment https://t.co/NaV2oPtAQ7",
+                    "retweet_count": 2,
+                    "user_id": 713133253931233285,
+                    "followers_count": 175
+                },
+                "983558011305234432": {
+                    "created_at": "Tue Apr 10 04:11:18 +0000 2018",
+                    "full_text": "RT @KHofmockel: Convergent evidence for widespread rock nitrogen sources in Earth\u2019s surface environment https://t.co/NaV2oPtAQ7",
+                    "retweet_count": 2,
+                    "user_id": 987666852,
+                    "followers_count": 1705
+                }
+            }
+        },
+        "983654400769085441": {
+            "created_at": "Tue Apr 10 10:34:19 +0000 2018",
+            "full_text": "The Nitrogen Cycle - getting more complex by the minute! https://t.co/CqiNo1WioX",
+            "retweet_count": 0,
+            "user_id": 2303224122,
+            "followers_count": 272
+        },
+        "984029225526136832": {
+            "created_at": "Wed Apr 11 11:23:44 +0000 2018",
+            "full_text": "Convergent evidence for widespread rock nitrogen sources in Earth\u2019s surface environment https://t.co/SNIIFuW28W",
+            "retweet_count": 0,
+            "user_id": 766225401702182912,
+            "followers_count": 543
+        },
+        "984061583209967616": {
+            "created_at": "Wed Apr 11 13:32:19 +0000 2018",
+            "full_text": "Convergent evidence for widespread rock nitrogen sources in Earth\u2019s surface environment https://t.co/zJZvBibHkG",
+            "retweet_count": 0,
+            "user_id": 861483428,
+            "followers_count": 757
+        },
+        "994640813584994304": {
+            "created_at": "Thu May 10 18:10:24 +0000 2018",
+            "full_text": "Beautiful day to rethink the nitrogen cycle! Turns out atm is not the only N ATM... https://t.co/uUqE7FjDhS",
+            "retweet_count": 0,
+            "user_id": 2842864748,
+            "followers_count": 761
+        },
+        "1001946898884898826": {
+            "created_at": "Wed May 30 22:02:10 +0000 2018",
+            "full_text": "https://t.co/6dC5BWRqz4",
+            "retweet_count": 0,
+            "user_id": 80672936,
+            "followers_count": 70
+        },
+        "1002187627079102464": {
+            "created_at": "Thu May 31 13:58:44 +0000 2018",
+            "full_text": "Convergent evidence for widespread rock nitrogen sources in Earth\u2019s surface environment https://t.co/3LqbFQqgVO",
+            "retweet_count": 0,
+            "user_id": 2901955542,
+            "followers_count": 369
+        },
+        "1002194659345620993": {
+            "created_at": "Thu May 31 14:26:41 +0000 2018",
+            "full_text": "#NitrogenCycle https://t.co/Lb42GJGPDQ",
+            "retweet_count": 1,
+            "user_id": 992047047489486848,
+            "followers_count": 2099,
+            "retweeted_TO": {
+                "1002407398592483328": {
+                    "created_at": "Fri Jun 01 04:32:02 +0000 2018",
+                    "full_text": "RT @RemiCardinael: #NitrogenCycle https://t.co/Lb42GJGPDQ",
+                    "retweet_count": 1,
+                    "user_id": 718461511505580032,
+                    "followers_count": 172
+                }
+            }
+        },
+        "1003996367273021440": {
+            "created_at": "Tue Jun 05 13:46:01 +0000 2018",
+            "full_text": "Convergent evidence for widespread rock nitrogen sources in Earth\u2019s  surface environment https://t.co/j8fKMT5mDh",
+            "retweet_count": 0,
+            "user_id": 479632817,
+            "followers_count": 470
+        },
+        "1004786962010603520": {
+            "created_at": "Thu Jun 07 18:07:34 +0000 2018",
+            "full_text": "@Hashinshin https://t.co/AzZ4cs4FnT",
+            "retweet_count": 0,
+            "user_id": 2790404660,
+            "followers_count": 411
+        },
+        "1006886492164067328": {
+            "created_at": "Wed Jun 13 13:10:21 +0000 2018",
+            "full_text": "\u4eca\u65e5\u3001\u7814\u7a76\u5ba4\u306e\u8ad6\u6587\u30bc\u30df\u3067\u7d39\u4ecb\u3055\u308c\u3066\u3044\u305f\u30012018\u5e74\u30b5\u30a4\u30a8\u30f3\u30b9\u63b2\u8f09\u306e\u7a92\u7d20\u5faa\u74b0\u306b\u95a2\u3059\u308b\u8ad6\u6587\u3002\u9678\u4e0a\u751f\u614b\u7cfb\u3078\u306e\u7a92\u7d20\u30bd\u30fc\u30b9\u3068\u3057\u3066\u3001\u5ca9\u77f3\u98a8\u5316\u306b\u7740\u76ee\u3002\u751f\u7269\u306b\u3088\u308b\u7a92\u7d20\u56fa\u5b9a\u306e\u307f\u3060\u3068\u601d\u3044\u8fbc\u3093\u3067\u305f\u3051\u3069\u3001\u3082\u3057\u3053\u308c\u304c\u672c\u5f53\u306a\u3089\u3001\u751f\u614b\u5b66\u306e\u6559\u79d1\u66f8\u304c\u66f8\u304d\u63db\u308f\u308b\u3060\u308d\u3046\u306a\u3068\u601d\u3063\u305f\u3002\u3059\u3054\u3044\u3002\nhttps://t.co/b0HP4syHdc",
+            "retweet_count": 0,
+            "user_id": 607596663,
+            "followers_count": 506
+        },
+        "1012023956130316289": {
+            "created_at": "Wed Jun 27 17:24:48 +0000 2018",
+            "full_text": "I just read this article arguing that rock weathering played a much larger role than heretofore acknowledge in the global N cycle. I'm curious to hear what @DrNitrogen, @DrBioGC, @BioGeoJim, @DrLimnology, @EStanLimnology and other biogeochemists think!\nhttps://t.co/wxSzGJ9Weu",
+            "retweet_count": 0,
+            "user_id": 850409528252395520,
+            "followers_count": 651
+        },
+        "1013587138070233089": {
+            "created_at": "Mon Jul 02 00:56:19 +0000 2018",
+            "full_text": "Any biogeochemists wanna weigh in here? How important are rocks as a source of biologically-available N? https://t.co/f2jyM5BiFj",
+            "retweet_count": 1,
+            "user_id": 850409528252395520,
+            "followers_count": 651,
+            "retweeted_TO": {
+                "1013607439990697984": {
+                    "created_at": "Mon Jul 02 02:17:00 +0000 2018",
+                    "full_text": "RT @ScienceSkater: Any biogeochemists wanna weigh in here? How important are rocks as a source of biologically-available N? https://t.co/f2\u2026",
+                    "retweet_count": 1,
+                    "user_id": 961607790799347712,
+                    "followers_count": 1166
+                }
+            }
+        },
+        "1029779724762009600": {
+            "created_at": "Wed Aug 15 17:19:53 +0000 2018",
+            "full_text": "@esseeeayeenn @gorskon @michaelshermer @jordanbpeterson why not if you mean skepticism seriously https://t.co/K2AWS2MdFO https://t.co/AzZ4cs4FnT https://t.co/2PP3jaozD1 https://t.co/WptuKYHuyv https://t.co/TbqlSPrCJS https://t.co/F6v1UGHwMU you know better than 31.000 petitioners?",
+            "retweet_count": 0,
+            "user_id": 2790404660,
+            "followers_count": 411
+        },
+        "1061542986247356416": {
+            "created_at": "Sun Nov 11 08:55:45 +0000 2018",
+            "full_text": "@arangillespie @chelseaperetti This is a piece showing that scientists have been grossly underestimating the nitrogen stores.  Shocker!  We don't understand the individual components of the system -- but hey, we understand the whole system just fine!  Such stupidity.  Direct link:  https://t.co/A2G3YkneUp",
+            "retweet_count": 1,
+            "user_id": 946609788418277376,
+            "followers_count": 2377,
+            "retweeted_TO": {
+                "1061696432766439424": {
+                    "created_at": "Sun Nov 11 19:05:29 +0000 2018",
+                    "full_text": "RT @_LukeCSkywalker: @arangillespie @chelseaperetti This is a piece showing that scientists have been grossly underestimating the nitrogen\u2026",
+                    "retweet_count": 1,
+                    "user_id": 3289694144,
+                    "followers_count": 2072
+                }
+            }
+        },
+        "1082304078775009282": {
+            "created_at": "Mon Jan 07 15:52:55 +0000 2019",
+            "full_text": "@NikolovScience @EcoSenseNow @HenrikWallin3 @Johan___B @coristus \"Evidence drawn from the planet\u2019s nitrogen balance, geochemical proxies, and our spatial weathering model reveal that ~19 to 31 teragrams of nitrogen are mobilized from near-surface rocks annually.\"  https://t.co/AzZ4cs4FnT (use scihub to access)",
+            "retweet_count": 0,
+            "user_id": 2790404660,
+            "followers_count": 411
+        },
+        "1082356665251479554": {
+            "created_at": "Mon Jan 07 19:21:52 +0000 2019",
+            "full_text": "@NikolovScience you might like this: \"greenhouse ... essentially describes a fictitious mechanism\" https://t.co/zWVhU3IdkW on nitrogen: https://t.co/AzZ4cs4FnT \"...a global perspective to reconcile Earth's nitrogen budget...\"",
+            "retweet_count": 1,
+            "user_id": 2790404660,
+            "followers_count": 411,
+            "retweeted_TO": {}
+        },
+        "1088530959367057409": {
+            "created_at": "Thu Jan 24 20:16:19 +0000 2019",
+            "full_text": "\u2018These findings provide a global perspective to reconcile Earth\u2019s nitrogen budget, with implications for nutrient-driven controls over the terrestrial carbon sink.\u2019 It means climate modelling needs full reset! Not gonna happen! #ClimateScam #climatechange https://t.co/3HqKLXx7Zf",
+            "retweet_count": 0,
+            "user_id": 3230203918,
+            "followers_count": 130
+        },
+        "1096406830555762688": {
+            "created_at": "Fri Feb 15 13:52:13 +0000 2019",
+            "full_text": "@washingtonpost Perhaps students should spend more time engaging in scientific, critical thought and study, rather than protest as the solution.\n\nhttps://t.co/thme2PvtKu\n\nhttps://t.co/ZvpENoilGx\n\nhttps://t.co/SkmjKaCx5l\n\nhttps://t.co/JYnQpYOAVt\n\nhttps://t.co/1714uIJPWP",
+            "retweet_count": 0,
+            "user_id": 1027344576208691200,
+            "followers_count": 356
+        },
+        "1117437708496977954": {
+            "created_at": "Sun Apr 14 14:41:25 +0000 2019",
+            "full_text": "@Cant_Read_Maps @sallyforthe @umfpt @Atlanticus74 @michellmybell1 @Lacey8306JC @heart3626 @allyallyallycat @robster16a @orna_verum @Catheri77148739 @halcyondon @EsoxCarcharias @DianWChain1 @FeatherEW @FMccaghr @2Cents69 @geraldpayne25 @Schmoop0521 @donholtmac @TertiusIII @JordivisionD @carlsmythe @StandBackUp2 @MechaPanda9K @Jesus_is_G_d @commonsensejan @Denbar64 @C_82l @CVCSoulwinners @TakeThatEpi @MaryVMos1 @The_Ouroboros__ @tcunderdahl @WhatJesus74 @tklforgiven @TakeThatDarwin @HeidiM_67 @RJDownard @ScientiaPercept @AcornFrances @Wtg4Gateau @zythophiliac @Loriniowa @paulr140 @LeannEAF @Corde61944395 @VolumeRose @Solo2703 @Melbajapan These writers didn\u2019t hear AOC tell us we have 12 years left and haven\u2019t heard Al Gore. Someone should probably tell them. https://t.co/9QiYPRhF6E",
+            "retweet_count": 0,
+            "user_id": 827380728803446784,
+            "followers_count": 2273
+        },
+        "1132418505293406209": {
+            "created_at": "Sat May 25 22:49:45 +0000 2019",
+            "full_text": "@cookglads @EcoSenseNow @Leigh252425 @GillesnFio @NikolovScience @Tangomitteckel @Silence54994655 @cosmoNotkin @MedBennett @DawnTJ90 @hypocrazy104 @3GHtweets @ClimatePoet @JJCrosstrainers @dunvirkin @JimBob87966760 @thjr19 @EthonRaptor @JPolov @DarrenBurchill @dvibrationz @MaineEli @d_e_mol @fleuryest @PolAnimalAus @Kenneth72712993 @n_the_mountains @lunatictrader1 @Gladfly1 @Sanity1013 @JamesAbbott2013 @rln_nelson @Bananenrijperij @GStandtrue @ElQuesoSabio @DonWils13730132 @KIVUNature @Tokyo_Tom @BradSchrag @SturmLLiouville @UvMeter @swcrisis @LarkRellez @MATTP1949 @dgweld @JaggerMickOZ @badmoonrising11 @JohnBurnieTas @Rail4Eva @unclejohnCC how do you like this one though: https://t.co/AzZ4cs4FnT",
+            "retweet_count": 0,
+            "user_id": 2790404660,
+            "followers_count": 411
+        },
+        "1141406209137926144": {
+            "created_at": "Wed Jun 19 18:03:41 +0000 2019",
+            "full_text": "@davidyoung13 You shit on the source again , but investors only republished the story the orig study is a peer reviewed study published by Journal Science white paper here \u2014&gt; https://t.co/h3XQOJwHcc",
+            "retweet_count": 0,
+            "user_id": 191868171,
+            "followers_count": 550
+        },
+        "1169125803860340737": {
+            "created_at": "Wed Sep 04 05:51:27 +0000 2019",
+            "full_text": "@ScottAdamsSays \n\nBedrock may produce as much nitrogen as the atmosphere does\nhttps://t.co/iIXVhpyS8N",
+            "retweet_count": 0,
+            "user_id": 1113206979386761217,
+            "followers_count": 19
+        },
+        "1169217652834951168": {
+            "created_at": "Wed Sep 04 11:56:26 +0000 2019",
+            "full_text": "Convergent evidence for widespread rock nitrogen sources in Earth\u2019s surface environment  https://t.co/30uh78nZEk",
+            "retweet_count": 0,
+            "user_id": 2305562935,
+            "followers_count": 843
+        },
+        "1169292377896488960": {
+            "created_at": "Wed Sep 04 16:53:21 +0000 2019",
+            "full_text": "@TheBeardOfDeath @warnerthuston @AOC Who is discredited? Journal of Science? Thanks for Playing:\n\nhttps://t.co/BYcPBl5xmG",
+            "retweet_count": 0,
+            "user_id": 1100459582638514177,
+            "followers_count": 71
+        },
+        "1169376863312961536": {
+            "created_at": "Wed Sep 04 22:29:04 +0000 2019",
+            "full_text": "@realDonaldTrump https://t.co/iIXVhphgKd\n\nAnother stake in the heart of the climate vampires",
+            "retweet_count": 0,
+            "user_id": 1113206979386761217,
+            "followers_count": 19
+        },
+        "1169377305359085568": {
+            "created_at": "Wed Sep 04 22:30:50 +0000 2019",
+            "full_text": "@realDonaldTrump https://t.co/iIXVhphgKd\n\nPlants can be 2X as effective at reducing global warming as previously thought. A GREEN WORLD and green nuclear can do the job without handing control of everything to the left.",
+            "retweet_count": 0,
+            "user_id": 1113206979386761217,
+            "followers_count": 19
+        },
+        "1169415923746447360": {},
+        "1169623231491391489": {
+            "created_at": "Thu Sep 05 14:48:03 +0000 2019",
+            "full_text": "Convergent evidence for widespread rock nitrogen sources in Earth\u2019s surface environment https://t.co/UBgkfxasio",
+            "retweet_count": 0,
+            "user_id": 1029850733183729664,
+            "followers_count": 140
+        },
+        "1169686786567823361": {
+            "created_at": "Thu Sep 05 19:00:36 +0000 2019",
+            "full_text": "@Cosmic_Engineer @GillesnFio @DavidMo66984563 @VWatcher56 @toolnick61 @dan613 @RadioFreeTony @waitwha35825253 @RoyPentland @d_e_mol @ATomalty @jimdtweet @rln_nelson @ElectroMoho @NikolovScience @MedBennett @EuphoricEuler @PeterMGeany @Michael46830937 @HMS_Indomitable @GoshenBLB @jg091297 @SConwaySmith @MonkeyMyBack @RetributiaNorb @cosaingalway @JrwNovels @PolAnimalAus @cpernell8521 @jc_Craze @NoelTurner194 @glaser_holly @carlblom_robert @MassiMassian @DawnTJ90 @PeterJrgen12 @doctorbarnes1 @rmack2x @CoinMomma @Kenneth72712993 @3GHtweets @Calimer0c0mplex @Toimatom @WilliamMarsWard @Gladfly1 @facillito @roger_clague @LifeIsThermal @digitaldoc4 @Sanity1013 Nitrogen sources from earth/atmosphere. Still an issue?\n\nhttps://t.co/Ob6q75N36t",
+            "retweet_count": 0,
+            "user_id": 381849932,
+            "followers_count": 571
+        },
+        "1169822182966358019": {
+            "created_at": "Fri Sep 06 03:58:37 +0000 2019",
+            "full_text": "Nitrogen (N) availability controls many aspects of ecosystem structure and function on land and in the sea. This includes strong, N-driven effects on Earth\u2019s climate system and the size and sustainability of the terrestrial carbon (C) sink.\n\nhttps://t.co/3WKWd8a1s8",
+            "retweet_count": 0,
+            "user_id": 762297717972361217,
+            "followers_count": 1703
+        },
+        "1170390196900257792": {
+            "created_at": "Sat Sep 07 17:35:42 +0000 2019",
+            "full_text": "@GerritHiemstra https://t.co/NSoPHAk6NN",
+            "retweet_count": 0,
+            "user_id": 91524702,
+            "followers_count": 208
+        },
+        "1170440321907548160": {
+            "created_at": "Sat Sep 07 20:54:53 +0000 2019",
+            "full_text": "Convergent evidence for widespread rock nitrogen sources in Earth\u2019s surface environment https://t.co/OQW1yZlxng",
+            "retweet_count": 0,
+            "user_id": 712597046633635840,
+            "followers_count": 72
+        },
+        "1170470567851413506": {
+            "created_at": "Sat Sep 07 22:55:04 +0000 2019",
+            "full_text": "Climate Science receives a death blow from Actual Science:\nhttps://t.co/vlvl4e5GC5",
+            "retweet_count": 0,
+            "user_id": 797728803157995521,
+            "followers_count": 133
+        },
+        "1170473579496071168": {},
+        "1170479210324013056": {
+            "created_at": "Sat Sep 07 23:29:24 +0000 2019",
+            "full_text": "\"Convergent evidence for widespread rock nitrogen sources in Earth\u2019s surface environment\"\n\nHoulton et al., 2018\nhttps://t.co/D3VqGku2Md",
+            "retweet_count": 0,
+            "user_id": 465510040,
+            "followers_count": 165
+        },
+        "1170529049627676672": {
+            "created_at": "Sun Sep 08 02:47:27 +0000 2019",
+            "full_text": "Convergent evidence for widespread rock nitrogen sources in Earth\u2019s surface environment | Science https://t.co/NmdGnBScFD",
+            "retweet_count": 0,
+            "user_id": 222730183,
+            "followers_count": 568
+        },
+        "1170585881901748224": {
+            "created_at": "Sun Sep 08 06:33:17 +0000 2019",
+            "full_text": "Science publikuje badania dotycz\u0105ce ogromnych ilo\u015bci azotu uwalnianych ze ska\u0142 do atmosfery.\nOgraniczona absorpcja CO2 ro\u015blin mia\u0142a wynika\u0107 z niedostatecznej jego ilo\u015bci.\nNikt nie propaguje dowod\u00f3w przeciwko ociepleniu poniewa\u017c pieni\u0105dze ich nie wspieraj\u0105\nhttps://t.co/mzkQBVnwPb https://t.co/JDoWP2k0Ul",
+            "retweet_count": 1,
+            "user_id": 746629963600773120,
+            "followers_count": 5111,
+            "retweeted_TO": {
+                "1170586646296825857": {
+                    "created_at": "Sun Sep 08 06:36:19 +0000 2019",
+                    "full_text": "RT @andy_wilinski: Science publikuje badania dotycz\u0105ce ogromnych ilo\u015bci azotu uwalnianych ze ska\u0142 do atmosfery.\nOgraniczona absorpcja CO2 r\u2026",
+                    "retweet_count": 1,
+                    "user_id": 963017633158361089,
+                    "followers_count": 781
+                }
+            }
+        },
+        "1170662959091265538": {
+            "created_at": "Sun Sep 08 11:39:33 +0000 2019",
+            "full_text": "the science on anthropogenic global change change is closed. Or is it? https://t.co/DY9H2sINkx",
+            "retweet_count": 0,
+            "user_id": 1170453272072769536,
+            "followers_count": 0
+        },
+        "1170682253506207744": {
+            "created_at": "Sun Sep 08 12:56:14 +0000 2019",
+            "full_text": "Descubren que las rocas son fuente de liberaci\u00f3n de nitr\u00f3geno al ambiente y este hallazgo puede tener impacto sobre el calentamiento global porque incide en el crecimiento de las plantas. Hasta ahora, se pensaba que nitr\u00f3geno solo proven\u00eda de la atm\u00f3sfera. https://t.co/CwX63hUiM7",
+            "retweet_count": 0,
+            "user_id": 171472715,
+            "followers_count": 219
+        },
+        "1170684989404516352": {
+            "created_at": "Sun Sep 08 13:07:06 +0000 2019",
+            "full_text": "Convergent evidence for widespread rock nitrogen sources in Earth\u2019s surface environment!  \n\n#Science Successfully Debunks #GlobalWarming Scam \ud83d\udc47\ud83c\udffe https://t.co/MtjwCH73hH",
+            "retweet_count": 1,
+            "user_id": 75184478,
+            "followers_count": 9217,
+            "retweeted_TO": {
+                "1170692719083016195": {
+                    "created_at": "Sun Sep 08 13:37:49 +0000 2019",
+                    "full_text": "RT @warriors_mom: Convergent evidence for widespread rock nitrogen sources in Earth\u2019s surface environment!  \n\n#Science Successfully Debunks\u2026",
+                    "retweet_count": 1,
+                    "user_id": 120202359,
+                    "followers_count": 1608
+                }
+            }
+        },
+        "1170786383012728832": {
+            "created_at": "Sun Sep 08 19:50:00 +0000 2019",
+            "full_text": "? Have we reconciled accordingly T Nitrogen Budget of our earth .. \nT interwoven factor between T Global terrestrial carbon sink and N has NOT been well considered. \n@GretaThunberg @XtinctionRebel @XRebellionAus @XRebellionUK @ExtinctionR_DE @xRebelCanada \nhttps://t.co/tHOTNZMH6y",
+            "retweet_count": 1,
+            "user_id": 68943220,
+            "followers_count": 138,
+            "retweeted_TO": {
+                "1170911968988946432": {
+                    "created_at": "Mon Sep 09 04:09:02 +0000 2019",
+                    "full_text": "RT @GamiGreenGlobe: ? Have we reconciled accordingly T Nitrogen Budget of our earth .. \nT interwoven factor between T Global terrestrial ca\u2026",
+                    "retweet_count": 1,
+                    "user_id": 68943220,
+                    "followers_count": 138
+                }
+            }
+        },
+        "1170838075842256896": {},
+        "1171063955198042115": {},
+        "1171075604558548992": {
+            "created_at": "Mon Sep 09 14:59:16 +0000 2019",
+            "full_text": "@TheCanadianDav1 @StefanMolyneux A research article showing more nitrogen is available than previously thought.  https://t.co/PSLeUYny7M",
+            "retweet_count": 0,
+            "user_id": 1144995775820238854,
+            "followers_count": 98
+        },
+        "1171374922008014848": {
+            "created_at": "Tue Sep 10 10:48:39 +0000 2019",
+            "full_text": "https://t.co/d9klSgPfGR\n\nMet je stikstof",
+            "retweet_count": 0,
+            "user_id": 325669397,
+            "followers_count": 1128
+        },
+        "1171802204199673857": {
+            "created_at": "Wed Sep 11 15:06:31 +0000 2019",
+            "full_text": "@trip6 @Percolator_HNJ @Infocadl2015 het zit ook id grond, zo blijkt:\n\nhttps://t.co/HzCyENef4M",
+            "retweet_count": 0,
+            "user_id": 824547801292017664,
+            "followers_count": 488
+        },
+        "1175406062960353280": {
+            "created_at": "Sat Sep 21 13:46:58 +0000 2019",
+            "full_text": "@Jordan_Sather_ https://t.co/Q2Ci2nxEXB",
+            "retweet_count": 0,
+            "user_id": 204196752,
+            "followers_count": 410
+        },
+        "1175455161461956614": {
+            "created_at": "Sat Sep 21 17:02:04 +0000 2019",
+            "full_text": "@DavidBCollum I just manage money for \"what is\" and analyze the data for what might be. You have to question any #narrative that pulls huge amounts of #money into \"speculative investments\" which widen the #wealth #gap but provides little benefit to the middle class.\nhttps://t.co/9ZVMk9BwTf https://t.co/ylqXDFgpfu",
+            "retweet_count": 0,
+            "user_id": 49958733,
+            "followers_count": 64055
+        },
+        "1176605487984496640": {
+            "created_at": "Tue Sep 24 21:13:03 +0000 2019",
+            "full_text": "@Penetr8er @checkmatestate https://t.co/Q2Ci2nxEXB",
+            "retweet_count": 0,
+            "user_id": 204196752,
+            "followers_count": 410
+        },
+        "1192516715353001984": {
+            "created_at": "Thu Nov 07 18:58:35 +0000 2019",
+            "full_text": "Re-reading this paper is better than coffee - easy to become a #doomer if you've stopped thinking creatively about #ClimateChange. Thanks @BenHoulton (&amp; coauthors!) for a morning shot of excitement and optimism.\n\nhttps://t.co/Nn8nXWA0Xx",
+            "retweet_count": 0,
+            "user_id": 1185654536167292928,
+            "followers_count": 192
+        },
+        "1211735878164516865": {
+            "created_at": "Mon Dec 30 19:48:40 +0000 2019",
+            "full_text": "@grzegg @bobik314 @Neuropa_ @joakedzierska @Janusz1967 https://t.co/7CcmbWNHCB\nhttps://t.co/eVhIRYVHZC  https://t.co/pQIYnfiFbb",
+            "retweet_count": 0,
+            "user_id": 3090954486,
+            "followers_count": 135
+        },
+        "1536424105045544963": {
+            "created_at": "Mon Jun 13 19:03:46 +0000 2022",
+            "full_text": "\u2018Deze nieuwe ontdekking kan die gruwelijke global warming voorspellingen, die nu een religie zijn, dramatisch veranderen,\u2019 vervolgt Armstrong. De bevindingen, die zijn gepubliceerd in het prestigieuze\nhttps://t.co/WH8ZDRquIQ\n#stikstof",
+            "retweet_count": 0,
+            "user_id": 1414269835144540162,
+            "followers_count": 1657
+        },
+        "1536424464455553029": {
+            "created_at": "Mon Jun 13 19:05:12 +0000 2022",
+            "full_text": "Dat er is ontdekt dat er in het gesteente van de planeet enorme hoeveelheden #stikstof, dat essentieel is\nvoor het plantenleven, zijn opgeslagen.\nDeze ontdekking verandert de complete theorie dat de planeet opwarmt door menselijke #CO2  uitstoot\nhttps://t.co/WH8ZDRquIQ",
+            "retweet_count": 0,
+            "user_id": 1414269835144540162,
+            "followers_count": 1657
+        }
+    }
+}
