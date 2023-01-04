@@ -1,0 +1,36 @@
+{
+    "tweet_counts": {
+        "article -> tweet": 6,
+        "tweet -> retweet": 1
+    },
+    "follower_counts": {
+        "article -> tweet": 2560,
+        "tweet -> retweet": 12
+    },
+    "10.1080/17524032.2019.1687537": {
+        "1532884331546435585": {},
+        "1532908759743348736": {
+            "created_at": "Sat Jun 04 02:15:03 +0000 2022",
+            "full_text": "#climatehoax https://t.co/jg9FUwnxmV",
+            "retweet_count": 0,
+            "user_id": 353686710,
+            "followers_count": 371
+        },
+        "1550532698661617664": {
+            "created_at": "Fri Jul 22 17:26:17 +0000 2022",
+            "full_text": "My research was published in Environmental Communication in 2020. The citation is at: https://t.co/EyQkjeIkjK. Feel free to message me for the full-text. \n@CoveringClimate #Heatwave2022 #ClimateEmergency",
+            "retweet_count": 1,
+            "user_id": 56730995,
+            "followers_count": 2189,
+            "retweeted_TO": {
+                "1552352422764363779": {
+                    "created_at": "Wed Jul 27 17:57:13 +0000 2022",
+                    "full_text": "RT @jillhopke: My research was published in Environmental Communication in 2020. The citation is at: https://t.co/EyQkjeIkjK. Feel free to\u2026",
+                    "retweet_count": 1,
+                    "user_id": 1084974323054624768,
+                    "followers_count": 12
+                }
+            }
+        }
+    }
+}
